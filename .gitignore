@@ -1,0 +1,4 @@
+# Project exclude paths
+/custom-metric/target/
+/custom-metric-pushgateway/target/
+/micrometer/target/
